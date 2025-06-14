@@ -1,0 +1,13 @@
+customer_pipeline:
+  target : dev 
+  outputs:
+    dev:
+      type: snowflake
+      account: JLEPXQT-UY11773
+      user: rnavin
+      password:R@hulnavin621992
+      role: ACCOUNTADMIN
+      databse: test_dw
+      warehouse : COMPUTE_WH
+      schema : public
+      authenticator: snowflake
