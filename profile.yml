@@ -3,9 +3,9 @@ customer_pipeline:
   outputs:
     dev:
       type: snowflake
-      account: JLEPXQT-UY11773
+      account: ****************
       user: rnavin
-      password:R@hulnavin621992
+      password:*************
       role: ACCOUNTADMIN
       databse: test_dw
       warehouse : COMPUTE_WH
