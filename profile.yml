@@ -3,7 +3,7 @@ customer_pipeline:
   outputs:
     dev:
       type: snowflake
-      account: JLEPXQT-UY11773
+      account: **********
       user: rnavin
       password:***************
       role: ACCOUNTADMIN
