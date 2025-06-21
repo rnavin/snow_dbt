@@ -3,11 +3,11 @@ customer_pipeline:
   outputs:
     dev:
       type: snowflake
-      account: ****************
+      account: JLEPXQT.UY11773
       user: rnavin
-      password:*************
+      password: R@hulnavin621992
       role: ACCOUNTADMIN
-      databse: test_dw
+      databse: TEST_DW
       warehouse : COMPUTE_WH
       schema : public
       authenticator: snowflake

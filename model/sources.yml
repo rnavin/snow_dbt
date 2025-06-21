@@ -1,0 +1,8 @@
+version: 2
+
+sources: 
+  - name: source
+    database: TEST_DW
+    schema: public
+    tables:
+      - name: customer
