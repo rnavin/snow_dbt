@@ -43,7 +43,7 @@ models:
       +schema: public
       +materialized: table
     silver:
-      +database: sliver
+      +database: silver
       +schema: public
       +materialized: table
     gold:
